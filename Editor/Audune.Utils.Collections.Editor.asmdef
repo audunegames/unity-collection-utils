@@ -1,0 +1,19 @@
+{
+    "name": "Audune.Utils.Collections.Editor",
+    "rootNamespace": "Audune.Utils.Collections.Editor",
+    "references": [
+        "GUID:c0115945b6450f544a19881529b3a032",
+        "GUID:cae9ba75d7e39b34f8eed004d047cc0e"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
